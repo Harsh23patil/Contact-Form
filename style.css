@@ -1,0 +1,94 @@
+.mainBox{
+    background-color: #d4d4d4;
+    height: 760px;
+    width: 60%;
+    margin: auto;
+    border-radius: 6px;
+    position: relative;
+    
+}
+.TopBox{
+    background-color: #acc976;
+    color: rgb(251, 250, 247);
+    border-radius: 6px;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 50px;
+    
+}
+p{
+    font-size: 1.3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 0px;
+    
+}
+.inp{
+    
+    font-size: large;
+    margin-bottom: 7px;
+    color: rgb(65, 64, 64);
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.please{
+    position: relative;
+    left: 55px;
+    bottom: 40px;
+    font-size: 1.4rem;
+}
+.infoBox{
+    margin-left: 50px;
+    position: relative;
+}
+.NameBox{
+    height: 40px;
+    width: 90%;
+    border: 1px solid black;
+    background-color: white;
+}
+.MailBox{
+    height: 40px;
+    width: 90%;
+    border: 1px solid black;
+    background-color: white;
+}
+.messageBox{
+    height: 165px;
+    width: 90%;
+    border: 1px solid black;
+    background-color: white;
+}
+.subBox{
+    height: 40px;
+    width: 90%;
+    border: 1px solid black;
+    background-color: white;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #acc976, #9fbd66);
+    background-image: -moz-linear-gradient(top, #acc976, #9fbd66);
+    background-image: -ms-linear-gradient(top, #acc976, #9fbd66);
+    background-image: -o-linear-gradient(top, #acc976, #9fbd66);
+    background-image: linear-gradient(to bottom, #acc976, #9fbd66);
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #9fbd66, #acc976);
+    background-image: -moz-linear-gradient(top, #9fbd66, #acc976);
+    background-image: -ms-linear-gradient(top, #9fbd66, #acc976);
+    background-image: -o-linear-gradient(top, #9fbd66, #acc976);
+    background-image: linear-gradient(to bottom, #9fbd66, #acc976);
+    text-decoration: none;
+}
